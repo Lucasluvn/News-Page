@@ -46,5 +46,7 @@ img{
     margin-inline: auto;
   }
 
- 
- 
+  main {
+    margin-top: 40px;
+  }
+
